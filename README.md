@@ -11,16 +11,16 @@ Yazılım mülakatlarına hazırlanan adayların farklı kategorilerde (JavaScri
 ### 📸 Ekran Görüntüleri
 
 #### 1. Karanlık Tema Genel Görünüm
-![Karanlık Tema Genel Görünüm](img/Screenshot%202026-06-20%20at%2014.46.05.png)
+![Karanlık Tema Genel Görünüm](img/Screenshot%202026-06-20%20at%2014.48.29.png)
 
 #### 2. Aydınlık Tema Görünümü
-![Aydınlık Tema Görünümü](img/Screenshot%202026-06-20%20at%2014.48.00.png)
+![Aydınlık Tema Görünümü](img/Screenshot%202026-06-20%20at%2014.46.05.png)
 
-#### 3. Soru Ekleme ve Düzenleme Arayüzü
-![Soru Ekleme ve Düzenleme Arayüzü](img/Screenshot%202026-06-20%20at%2014.48.18.png)
+#### 3. Soru Ayrıntıları & Kod Blokları (Aydınlık Mod)
+![Soru Ayrıntıları & Kod Blokları](img/Screenshot%202026-06-20%20at%2014.48.18.png)
 
 #### 4. Kendimi Test Et (Rastgele Soru Modali)
-![Kendimi Test Et - Çalışma Modali](img/Screenshot%202026-06-20%20at%2014.48.29.png)
+![Kendimi Test Et - Çalışma Modali](img/Screenshot%202026-06-20%20at%2014.48.00.png)
 
 ---
 
@@ -136,16 +136,16 @@ A modern and responsive ReactJS web application designed for candidates preparin
 ### 📸 Screenshots
 
 #### 1. Dark Theme General View
-![Dark Theme General View](img/Screenshot%202026-06-20%20at%2014.46.05.png)
+![Dark Theme General View](img/Screenshot%202026-06-20%20at%2014.48.29.png)
 
 #### 2. Light Theme View
-![Light Theme View](img/Screenshot%202026-06-20%20at%2014.48.00.png)
+![Light Theme View](img/Screenshot%202026-06-20%20at%2014.46.05.png)
 
-#### 3. Add & Edit Question Interface
-![Add & Edit Question Interface](img/Screenshot%202026-06-20%20at%2014.48.18.png)
+#### 3. Question Details & Code Blocks (Light Mode)
+![Question Details & Code Blocks](img/Screenshot%202026-06-20%20at%2014.48.18.png)
 
 #### 4. Test Yourself (Random Question Modal)
-![Test Yourself - Study Modal](img/Screenshot%202026-06-20%20at%2014.48.29.png)
+![Test Yourself - Study Modal](img/Screenshot%202026-06-20%20at%2014.48.00.png)
 
 ---
 
