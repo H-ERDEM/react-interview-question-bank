@@ -126,6 +126,9 @@ Netlify, Vite projelerini doğrudan GitHub deposu üzerinden veya derlenmiş `di
 1. Terminalde `npm run build` komutunu çalıştırın. Bu işlem proje dizininde bir `dist` klasörü üretecektir.
 2. Netlify paneline gidin ve alt kısımdaki **"Deploy manually"** sürükle-bırak alanına sadece bu `dist` klasörünü sürükleyip bırakın. Birkaç saniye içinde siteniz yayına girecektir.
 
+##### Netlify Linki
+https://app.netlify.com/projects/react-interview-question-bank/overview
+
 ---
 ---
 
@@ -250,3 +253,6 @@ Netlify lets you deploy Vite projects directly from your GitHub repository or by
 ##### Method B: Drag and Drop Deployment
 1. Run the build command `npm run build` in your terminal to generate a `dist` folder.
 2. Go to your Netlify dashboard and drag the `dist` folder directly onto the **"Deploy manually"** area. Your site will be online in seconds.
+
+##### Netlify Linki
+https://app.netlify.com/projects/react-interview-question-bank/overview
