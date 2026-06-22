@@ -129,8 +129,7 @@ Netlify, Vite projelerini doğrudan GitHub deposu üzerinden veya derlenmiş `di
 ##### Netlify Linki
 https://app.netlify.com/projects/react-interview-question-bank/overview
 
----
----
+
 
 ## 🇺🇸 English
 
